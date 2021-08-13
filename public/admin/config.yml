@@ -22,7 +22,7 @@ collections:
   - name: "config"
     label: "Configuration"
     editor:
-      preview: true
+      preview: false
     files:
       - name: "global"
         label: "Global"

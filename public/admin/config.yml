@@ -34,3 +34,11 @@ collections:
           - { name: "url", label: "Site url" }
           - { name: "locale", label: "Language" }
           - { name: "author", label: "Author" }
+          
+     - name: "Menu"
+        label: "Menu"
+        file: "src/_data/site.json"
+        fields:
+          - { name: "nav1", label: "Menu1" }
+          - { name: "nav2", label: "Site2" }
+             

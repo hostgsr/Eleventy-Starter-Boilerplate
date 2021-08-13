@@ -1,7 +1,7 @@
 ---
-title: 'My first post'
+title: My first post
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-date: 2020-02-02T00:00:00Z
+date: 2021-08-13T22:20:37.675Z
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
